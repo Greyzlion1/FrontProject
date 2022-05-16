@@ -1,0 +1,167 @@
+body{
+    background-color: #FAFAFA;
+}
+.main-top{
+    text-align: center;
+    margin-top: 20px;
+}
+.main-top p{
+    font-size: 13px;
+}
+.contactdivleft{
+    margin-top: 45px;
+    background-color: #F3F3F6;
+    padding: 40px 0px ;
+    display: block;
+    margin-left: 140px;
+    width: 23%;
+    border-radius: 5px;
+}
+.contactdivleft i{
+   font-size: 23px;
+   padding-bottom: 20px;
+}
+.contactdivmain{
+    margin-top: -187px;
+    background-color: #F3F3F6;
+    padding: 40px 0px ;
+    width: 23%;
+    border-radius: 5px;
+    margin-left: 460px;
+}
+.contactdivmain i{
+    font-size: 23px;
+    padding-bottom: 20px;
+ }
+ .contactdivright{
+    margin-top: -187px;
+    background-color: #F3F3F6;
+    padding: 40px 0px ;
+    width: 23%;
+    border-radius: 5px;
+    margin-left: 780px;
+ }
+ .contactdivright i{
+    font-size: 23px;
+    padding-bottom: 20px;
+ }
+ .main-buttom{
+     text-align: center;
+     margin-top: 100px;
+     box-sizing: border-box;
+     background-color: #FFFFFF;
+     width: 76%;
+     margin-left: 143px;
+    height: 630px;
+ }
+ .mainbuttomtop h4{
+   padding-top: 50px;
+   font-size: 28px;
+ }
+ .mainbuttomtop p{
+     font-size: 12px;
+     display: block;
+     border-bottom: 1px solid #F6F7FA;
+     padding-bottom: 40px;
+     border-width: thin;
+ }
+.leftb1{
+   margin-left: -400px; 
+   margin-top: 50px;
+}
+#name{
+   margin-left: -105px;
+   font-size: 13px;
+   margin-bottom: 5px;
+}
+
+#input1{
+    width: 20%;
+    margin-left: 90px;
+    background-color: #F3F4F7;
+    border: none;
+    border-radius: 2px;
+    height: 33px;
+}
+
+.rightb2{
+    margin-top: -87px;
+    margin-left: 30px;
+    padding: 30px 0px;
+}
+#name1{
+    margin-left: 40px;
+    font-size: 13px;
+  
+    
+   
+}
+#input2{
+    width: 32%;
+    margin-left: 260px;
+    background-color: #F3F4F7;
+    border: none;
+    border-radius: 2px;
+    height: 33px;
+    
+}
+.subject{
+    margin-right: 300px;
+    margin-top: -10px;
+}
+.subject p{
+    margin-left: -220px;
+    font-size: 13px;
+    margin-bottom: 4px;
+
+}
+.subject input{
+    width: 92%;
+    height: 33px;
+    margin-left: 175px;
+    border: none;
+   background-color: #F3F4F7;
+}
+.coment{
+    margin-left: 112px;
+}
+
+.coment textarea{
+    height: 100px;
+    width: 71%;
+    margin-top: -12px;
+    border: none;
+    background-color: #F3F4F7;
+}
+.coment p{
+    margin-right: 610px;
+    font-size: 12px;
+    margin-top: 10px;
+}
+.coment button{
+    right: 95vh;
+    position: relative;
+    font-size: 15px;
+    top: 62px;
+   padding:6px 8px ;
+   background-color: #233A95;
+   color: white;
+   border: none;
+   border-radius: 3px;
+}
+.containerd1{
+    position: relative;
+}
+.scrollTop{
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    width: 60px;
+    height: 60px;
+    background: #fff url(up.png);
+    border-radius: 50%;
+    background-size: 40px;
+    background-position: center;
+}
+
+

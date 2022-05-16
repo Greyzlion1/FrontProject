@@ -1,0 +1,56 @@
+.login-main{
+    margin-top: 50px;
+    margin-left: 100px;
+    height: 90%;
+    width: 85%;
+    font-size: 12px;
+}
+.login-main {
+    height: 90% !important;
+}
+.loginmainright h6{
+   border-bottom: 1px solid #F3F4F7;
+   border-width: thin;
+   padding-bottom: 10px;
+}
+.login-mainleft h6{
+    border-bottom: 1px solid #F3F4F7;
+    border-width: thin;
+    padding-bottom: 10px;
+}
+.mb-3 button{
+   margin-left: -14px;
+   background-color: #233A95;
+   border-radius: 3px;
+   font-size: 14px;
+   margin-top: -0px;
+}
+.loginmainright label{
+    color: #202E48;
+}
+.loginmainleft label{
+    color: #202E48;
+}
+#mb-31{
+    margin-left: 0px;
+    background-color: #233A95;
+    border-radius: 3px;
+    font-size: 14px;
+    margin-top: -7px;
+ } 
+
+#lost-password{
+    display: block;
+    margin-top: 10px;
+    font-size: 11px;
+    color: #80AAD9;
+}
+#registera{
+    font-size: 11px;
+    margin-left: -18px;
+    color: #3D51AA;
+}
+#registerb{
+    color: #ED527F;
+    border-bottom: 1px solid;
+}
